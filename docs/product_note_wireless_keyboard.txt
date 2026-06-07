@@ -1,0 +1,17 @@
+# Source: synthetic — internal product operations note
+
+Product Operations Note: Wireless Mechanical Keyboard
+Product: Wireless Mechanical Keyboard
+SKU: WMK-2200
+
+This document outlines specifications, troubleshooting steps, and inventory status for the Wireless Mechanical Keyboard. The keyboard features a compact 87-key tenkeyless layout equipped with tactile brown switches. It supports wireless connectivity via Bluetooth 5.0 or a 2.4GHz USB dongle. Power is supplied by a rechargeable 3000mAh battery, offering up to six months of battery life.
+
+The 2.4GHz USB dongle is known to lose connection due to RF interference when plugged directly into a USB 3.0 port. The workaround is to plug the dongle into a USB 2.0 port or use a USB 2.0 extension cable.
+
+Logistics:
+Warehouse Location: BIN-A07, Shelf 1
+Current Stock: 12 units
+Reorder Threshold: 20 units
+Status: CRITICAL — BELOW THRESHOLD
+
+Inventory levels are critical. Purchase order PO-2024-088 has been raised for one hundred units from our supplier, TechDistrib Ltd. The expected time of arrival (ETA) is 2024-05-17. Warehouse staff must prioritize receiving and scanning this shipment. Until the shipment arrives, support agents should advise customers of the stock shortage and offer alternative layouts if needed.

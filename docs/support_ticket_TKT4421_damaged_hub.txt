@@ -1,0 +1,16 @@
+# Source: synthetic — customer support ticket summary
+
+Customer Support Ticket Summary: TKT-4421
+Ticket ID: TKT-4421
+Order ID: ORD-1042
+Date: 2024-03-15
+Customer: Priya Mehta, Mumbai (International)
+Product: USB-C 7-in-1 Hub SKU#UCH-7001
+
+The customer reported that the USB-C Hub arrived with a cracked outer casing and a non-functional HDMI port. The customer provided four photos showing severe external package damage, indicating impact during transit. 
+
+Support Agent Sarah K. verified the order details and initiated immediate resolutions. A replacement unit was dispatched the same day via expedited international shipping. The agent emailed a return shipping label to the customer. A UPS damage claim was filed under reference UPS-2024-03-15-A44. The customer was instructed to retain the original packaging and damaged item until the carrier claim is fully resolved, as UPS may require an inspection.
+
+Resolution: Resolved. The replacement unit was delivered on 2024-03-18. 
+Root Cause: Carrier transit damage.
+Follow-up: The warehouse team must add an extra layer of protective bubble wrap to all international shipments of UCH-7001 units to prevent future occurrences. Agent Sarah K. confirmed the case is closed after customer satisfaction was verified.

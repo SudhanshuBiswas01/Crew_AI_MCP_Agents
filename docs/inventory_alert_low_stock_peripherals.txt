@@ -1,0 +1,12 @@
+# Source: synthetic — paraphrased for educational use
+
+INVENTORY ALERT MEMORANDUM
+Date: 2024-05-10
+To: Fulfillment and Procurement Teams
+From: Operations Department
+
+This inventory alert flags critical stock levels for essential peripheral items at the primary distribution center. A routine inventory count conducted on May 10 identified that the Wireless Mechanical Keyboard (SKU#WMK-2200) has fallen to twelve units in stock. This level is significantly below the established reorder threshold of twenty units, requiring immediate procurement action to prevent a stockout.
+
+To address the keyboard shortage, the procurement team has raised purchase order PO-2024-088 for one hundred units of the Wireless Mechanical Keyboard from our supplier, TechDistrib Ltd. The order has been confirmed, and the expected delivery date at the warehouse is May 17. Logistics staff should prepare receiving dock space in BIN-A07 for this shipment.
+
+Additionally, the USB-C 7-in-1 Hub (SKU#UCH-7001) is approaching its reorder threshold. The current stock is forty-three units against a threshold of fifteen units. Although not yet critical, high sales velocity has been noted in the second quarter. The procurement team must monitor this SKU closely and prepare a new order if sales trends continue. This memorandum has been reviewed and signed off by Operations Manager Divya R.

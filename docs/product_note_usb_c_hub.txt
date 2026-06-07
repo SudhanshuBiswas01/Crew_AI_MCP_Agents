@@ -1,0 +1,19 @@
+# Source: synthetic — internal product operations note
+
+Product Operations Note: USB-C 7-in-1 Hub
+Product: USB-C 7-in-1 Hub
+SKU: UCH-7001
+
+This product note details the specifications, issues, and inventory for the USB-C Hub. The device features an HDMI port supporting 4K resolution at 60Hz, three USB-A 3.0 ports, a dual SD and microSD card reader, and a USB-C Power Delivery pass-through port supporting up to 100W of power.
+
+Support reports indicate charging instability when input power exceeds 85W and the hub is connected to a MacBook M2 with Pro or Max chips. The workaround is to cap the Power Delivery input at 65W in the hub's settings, or plug a dedicated 140W charger directly into the laptop.
+
+To resolve USB-A enumeration bugs found in firmware version 2.2.x, technicians recommend upgrading all inventory to firmware version 2.3.1. 
+
+Logistics:
+Warehouse Location: BIN-C14, Shelf 3
+Current Stock: 43 units
+Reorder Threshold: 15 units
+Status: HEALTHY
+
+Because the current stock is well above the reorder threshold, no replenishment order is required. Support staff should ensure that all outgoing units are checked for firmware version 2.3.1 prior to shipping.

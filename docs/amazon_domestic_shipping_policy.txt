@@ -1,0 +1,11 @@
+# Source: amazon.com — paraphrased for educational use
+
+Amazon Domestic Shipping Policy — Internal Reference
+
+This internal reference document details shipping guidelines, delivery speeds, and member benefits for domestic fulfillment. For standard shipping, non-Prime members receive their orders within four to five business days. For faster delivery, customers can purchase expedited shipping, which reduces transit times to two to four business days.
+
+Non-Prime members receive free standard shipping only on orders totaling over thirty-five dollars. Amazon Prime members receive free two-day delivery on eligible items. Prime members also qualify for free one-day shipping on eligible products, and free same-day shipping in over nine thousand cities. The cutoff time for same-day delivery is displayed on the product detail page, with deliveries completed by ten PM local time. Prime membership is priced at one hundred and thirty-nine dollars annually or fourteen dollars and ninety-nine cents monthly.
+
+Amazon utilizes a diverse logistics network. Carrier services include United Parcel Service (UPS), United States Postal Service (USPS), and Amazon Logistics. The carrier is assigned automatically at dispatch based on speed and region. 
+
+To prevent theft, orders valued over one thousand three hundred dollars require a signature upon delivery. Operations staff must verify that signature service is active for high-value items during packaging. Customers receive tracking links for all shipments. Customer service agents can verify shipping status and carrier details through the internal administration panel.

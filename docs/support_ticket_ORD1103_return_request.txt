@@ -1,0 +1,12 @@
+# Source: synthetic — paraphrased for educational use
+
+CUSTOMER SUPPORT TICKET SUMMARY
+Ticket ID: TKT-4601
+Date: 2024-04-18
+Status: Closed
+
+Customer Ananya Singh contacted support to request a return for the USB-C Hub (SKU#UCH-7001) purchased under order ORD-1103. The customer reported that the hub was not fully compatible with her Dell XPS 15 laptop. Specifically, only two of the three USB-A ports functioned when multiple peripherals were connected simultaneously, and the device felt warm to the touch.
+
+Support Agent Maria L. handled the inquiry. The agent verified that the purchase was within the fifteen-day electronics return window. The agent approved the return request and initiated the refund process. A prepaid return shipping label was generated and sent to the customer via email, with instructions on how to package and return the device.
+
+During the interaction, the agent shared the technical note regarding general USB-C power distribution limits and compatibility constraints with high-power adapters. The customer appreciated the technical context and agreed to drop off the return package at a local postal facility. The refund will be credited to the customer's original credit card payment method once the returned package is received and scanned at the warehouse. The ticket is now marked as closed.

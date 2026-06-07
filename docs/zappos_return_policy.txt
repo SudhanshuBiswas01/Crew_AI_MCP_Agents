@@ -1,0 +1,11 @@
+# Source: zappos.com/c/shipping-and-returns — paraphrased for educational use
+
+Zappos Return Policy — Internal Reference
+
+This operations document outlines return procedures and compliance rules. Customers can return items within sixty days of purchase for a full refund to their original payment method. Store credit remains available for up to one year from the purchase date. To qualify for a return, items must be unworn, unused, in their original packaging, and have security tags intact.
+
+Returns are free. The customer receives a QR code on their mobile device and drops off the item at a UPS Store or Whole Foods Market. No shipping box is required for Whole Foods drop-offs. If a return is non-compliant, a restocking fee of up to fifty percent may be applied. Items marked as Final Sale are non-returnable.
+
+Fulfillment center inspection and refund processing takes up to thirty days after the item is received. Guest accounts are eligible only for refunds to the original payment method, as the store credit option is unavailable. 
+
+Staff must inspect returns against original order details. If items show signs of wear, the return is flagged, and a supervisor determines the restocking fee. Customers must be notified of restocking fees via email. Customer support representatives should advise guest checkout users that their refunds must go back to their credit cards. If their card is expired, the refund will be handled by our accounting team.

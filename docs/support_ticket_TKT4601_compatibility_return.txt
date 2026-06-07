@@ -1,0 +1,16 @@
+# Source: synthetic — customer support ticket summary
+
+Customer Support Ticket Summary: TKT-4601
+Ticket ID: TKT-4601
+Order ID: ORD-1103
+Date: 2024-04-18
+Customer: Ananya Singh, Bangalore (International)
+Product: USB-C 7-in-1 Hub SKU#UCH-7001
+
+The customer reported compatibility issues with her Dell XPS 15 laptop. Specifically, only two of the three USB-A ports function, although the HDMI port works. The customer requested a full refund due to the issue.
+
+Agent Maria L. confirmed that this behavior matches the known USB-A enumeration bug affecting firmware versions 2.2.x. The customer's device was shipped before the firmware update. The agent sent firmware update instructions, but the customer's update attempt failed. Since the customer was within the standard fifteen-day return window, the return was approved. A return shipping label was generated.
+
+Resolution: Closed. A full refund was issued upon carrier scan. The customer was informed of the compatibility workaround for future reference.
+Root Cause: Firmware bug v2.2.x.
+Follow-up: The fulfillment team must place a physical notice inside the retail box of all outgoing UCH-7001 hubs, advising customers to update their firmware. This notice will help minimize future return requests for this specific SKU.

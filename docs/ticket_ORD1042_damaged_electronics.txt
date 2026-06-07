@@ -1,0 +1,34 @@
+SUPPORT TICKET — CASE #SUP-20240315-8847
+Order ID: ORD-1042
+Customer: Jordan M.
+Channel: Email → Phone Escalation
+Priority: HIGH
+Status: ESCALATED TO TIER-2
+
+SUMMARY OF INCIDENT:
+Customer contacted support on 14 March 2024 reporting that order ORD-1042
+(Sony 65" 4K OLED Television, Model XR-65A80L, $1,799.99) arrived with
+visible physical damage. Customer describes a large crack running diagonally
+across the lower-left quadrant of the panel, visible from power-off state.
+Packaging appeared intact externally but showed minor corner compression
+consistent with a drop during transit.
+
+CUSTOMER STATEMENT:
+"I opened the box and the screen is cracked. The box looked fine on the
+outside. I need this replaced before my event on Saturday."
+
+AGENT ACTIONS TAKEN (Tier-1):
+- Verified order ORD-1042: shipped 10 March 2024 via FedEx, delivered 13 March 2024.
+- Requested and received four photos from customer confirming screen damage.
+- Initiated damage claim with FedEx (claim reference: FX-2024-0314-991).
+- Advised customer that replacement unit availability is 5–7 business days.
+- Customer expressed dissatisfaction with timeline; requested immediate resolution.
+- Escalated to Tier-2 on 14 March 2024 at 14:32 EST.
+
+TIER-2 RESOLUTION PATH:
+- Authorised priority replacement from nearest regional warehouse (ship date: 15 March).
+- Issued $150 goodwill credit to customer account.
+- Arranged carrier pick-up of damaged unit at no cost to customer.
+
+OUTCOME: Customer confirmed satisfaction with resolution on 16 March 2024.
+Case closed.

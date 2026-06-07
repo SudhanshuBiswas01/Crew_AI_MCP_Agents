@@ -1,0 +1,25 @@
+# Source: synthetic — internal inventory alert memo
+
+Internal Inventory Alert Memo
+Date: 2024-05-10
+Raised by: Warehouse Lead Kiran T.
+Approved by: Ops Manager Divya R.
+
+This memo documents inventory issues at our primary distribution center.
+
+CRITICAL item: WMK-2200 — Wireless Mechanical Keyboard
+Current stock: 12 units
+Reorder threshold: 20 units
+Status: BELOW THRESHOLD
+Action: Purchase order PO-2024-088 has been raised for 100 units from TechDistrib Ltd.
+Expected delivery: 2024-05-17
+Note: Sales velocity increased forty percent in April and May, likely driven by work-from-home seasonal demand.
+
+WATCH item: UCH-7001 — USB-C 7-in-1 Hub
+Current stock: 43 units
+Reorder threshold: 15 units
+Status: Approaching threshold (not yet critical).
+Note: Q2 sales velocity is elevated. Recommend reviewing stock levels in two weeks.
+
+Recommended Actions:
+Procurement must confirm PO-2024-088 with supplier TechDistrib Ltd by 2024-05-12 to ensure the estimated arrival date holds. Warehouse staff must clear storage space in BIN-A07 to receive the shipment. Additionally, the procurement team should evaluate whether a larger reorder threshold of thirty units is warranted for the keyboard, given the recent spike in seasonal sales velocity.

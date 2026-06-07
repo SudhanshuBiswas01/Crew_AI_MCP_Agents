@@ -1,0 +1,30 @@
+SUPPORT TICKET — CASE #SUP-20240418-9904
+Order ID: ORD-1103
+Customer: David K. (Business Account — Acme Corp)
+Channel: Phone
+Priority: HIGH
+Status: PENDING VENDOR REVIEW
+
+SUMMARY OF INCIDENT:
+Customer contacted support on 17 April 2024 regarding order ORD-1103 for
+10 units of the Anker PowerExpand+ 7-in-1 USB-C Hub ($54.99 each, total
+$549.90). Customer reports that 4 of the 10 units are failing to detect
+HDMI output on connected MacBook Pro M2 devices. Remaining 6 units function
+correctly. Issue is reproducible and consistent across multiple MacBook units.
+
+CUSTOMER STATEMENT:
+"We deployed these across the team and four of them don't output to the external
+monitor at all. We've tried different cables and monitors. The other six work
+fine. This is blocking our remote work setup."
+
+AGENT ACTIONS TAKEN:
+- Verified order ORD-1103: fulfilled 10 April 2024, all 10 units from same batch.
+- Guided customer through standard HDMI troubleshooting (cable swap, display
+  settings reset, firmware check) — issue persists on affected units only.
+- Identified potential manufacturing batch defect; escalated to vendor liaison.
+- Vendor (Anker) issued RMA for 4 units (RMA ref: ANK-RMA-2024-0418-77).
+- Replacement units expected 22 April; expedited at no cost to customer.
+- $50 account credit issued for business disruption.
+
+OUTSTANDING: Awaiting Anker batch quality report for root cause analysis.
+Case remains open pending vendor confirmation.

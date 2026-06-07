@@ -1,0 +1,32 @@
+SUPPORT TICKET — CASE #SUP-20240402-9213
+Order ID: ORD-1087
+Customer: Priya S.
+Channel: Live Chat → Email Follow-up
+Priority: MEDIUM
+Status: RESOLVED
+
+SUMMARY OF INCIDENT:
+Customer contacted support on 1 April 2024 reporting that order ORD-1087
+(Logitech MX Keys Wireless Keyboard, $109.99, and Logitech MX Master 3S Mouse,
+$99.99) was marked "Delivered" by UPS on 30 March 2024 but was not found at
+the delivery address. Customer confirmed the delivery photo shows the parcel
+left at an adjacent unit's doorstep (Unit 4B instead of Unit 4D).
+
+CUSTOMER STATEMENT:
+"The tracking says delivered but I never got it. The photo shows it's at my
+neighbour's door, not mine. My neighbour says they don't have it either."
+
+AGENT ACTIONS TAKEN:
+- Verified order ORD-1087: shipped 27 March 2024 via UPS, scan shows delivery 30 March.
+- Reviewed carrier delivery photo — confirmed incorrect drop location.
+- Submitted UPS investigation request (reference: UPS-INV-20240401-4471).
+- UPS investigation completed 3 April: parcel confirmed unrecoverable (mis-delivered,
+  not retrieved by recipient of wrong unit).
+- Authorised full replacement shipment at no charge (new order ORD-1094).
+- Replacement shipped 3 April, delivered 5 April — customer confirmed receipt.
+
+NOTES FOR FUTURE REFERENCE:
+Customer requested that all future orders to this address include a delivery
+instruction to ring the intercom for Unit 4D. Preference saved to account profile.
+
+OUTCOME: Replacement received. Case closed 5 April 2024.

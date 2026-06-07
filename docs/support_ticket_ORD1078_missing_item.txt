@@ -1,0 +1,12 @@
+# Source: synthetic — paraphrased for educational use
+
+CUSTOMER SUPPORT TICKET SUMMARY
+Ticket ID: TKT-4489
+Date: 2024-04-02
+Status: Resolved
+
+Customer Rahul Verma opened a ticket regarding order ORD-1078, which was delivered on April 1. The customer reported that although the shipping box arrived intact and sealed, the Wireless Mechanical Keyboard (SKU#WMK-2200) was missing from the package. Upon opening the package, the customer found only plastic bubble wrap and packing paper, but no product box.
+
+Support Agent James D. reviewed the ticket details and shipping weight records. The carrier's delivery receipt indicated a package weight that was significantly lower than the standard weight of a packaged keyboard, suggesting a fulfillment error at the warehouse. The agent authorized a replacement order, which was dispatched via standard shipping to the customer's address.
+
+To prevent future occurrences, the agent notified the warehouse supervisor and requested a review of the packing station video logs for the specific time the batch was processed. This internal audit will help determine if other packages from that day were affected by a similar packing error. The customer was notified of the replacement shipment details and expressed satisfaction with the quick resolution, allowing the agent to mark this ticket as resolved.

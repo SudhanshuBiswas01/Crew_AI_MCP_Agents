@@ -1,0 +1,11 @@
+# Source: zappos.com/c/shipping-and-returns — paraphrased for educational use
+
+Zappos Shipping Policy — Internal Reference
+
+This reference document outlines Zappos shipping options and fulfillment rules for operations personnel. Zappos offers free standard shipping on all domestic orders across the United States. There is no minimum purchase value or order size required to qualify for free standard shipping. Under normal conditions, standard shipping orders are delivered within three to five business days.
+
+For members of the Zappos VIP loyalty program, Zappos offers expedited shipping at no additional cost. This VIP membership benefit reduces transit times, guaranteeing order delivery within one to three business days. All standard shipping orders are processed and handled primarily by the carrier partner UPS.
+
+Zappos provides comprehensive geographic shipping coverage. Deliveries are made to all fifty states, all official US territories, and military APO/FPO addresses. Shipping to military and diplomatic locations requires special documentation and customs declarations, which operations staff must verify before dispatch.
+
+Operations staff should note that expedited shipping speeds are not available for APO/FPO addresses or US territories due to transport limitations. Tracking numbers are generated and emailed automatically upon dispatch. Customer support should refer users to their account dashboard to track packages or coordinate with UPS. All shipments are tracked from dispatch to delivery, ensuring full visibility. Any shipping inquiries regarding bulk or oversized items must be routed directly to our domestic logistics coordinator.

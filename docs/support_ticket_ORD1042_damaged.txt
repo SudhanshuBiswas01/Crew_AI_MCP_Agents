@@ -1,0 +1,12 @@
+# Source: synthetic — paraphrased for educational use
+
+CUSTOMER SUPPORT TICKET SUMMARY
+Ticket ID: TKT-4421
+Date: 2024-03-15
+Status: Resolved
+
+Customer Priya Mehta contacted support regarding order ORD-1042. The customer reported that the USB-C Hub (SKU#UCH-7001) arrived with severe physical damage. Specifically, the hub's aluminum outer casing was cracked, and the HDMI port was non-functional. The packaging box showed signs of crushing, suggesting that the damage occurred during transit.
+
+Support Agent Sarah K. verified the order and customer information. The agent initiated an immediate resolution by processing a replacement order. The replacement hub was shipped the same day via expedited shipping at no additional cost to the customer. A return shipping label was generated and emailed to the customer to return the damaged unit for inspection.
+
+Because carrier damage is strongly suspected, the agent opened an insurance claim with the shipping carrier, United Parcel Service (UPS), using the tracking number associated with the original shipment. The customer was thanked for providing photographs of the damaged item and packaging, which have been attached to the carrier claim file. The customer confirmed receipt of the replacement tracking details, and the support ticket has been marked as resolved and closed in the helpdesk system.

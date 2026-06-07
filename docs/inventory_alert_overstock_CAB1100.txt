@@ -1,0 +1,19 @@
+# Source: synthetic — internal inventory alert memo
+
+Internal Inventory Alert Memo
+Date: 2024-05-20
+Raised by: Warehouse Lead Kiran T.
+
+Item: USB-A to USB-C Cable 2m — SKU#CAB-1100
+Current stock: 380 units
+Monthly sell-through rate: ~40 units/month
+Months of supply: 9.5 months
+Status: OVERSTOCK
+
+This memo outlines corrective actions for the overstock of SKU#CAB-1100:
+1. Pause all automatic reorders for CAB-1100 immediately. Keep reorders paused until warehouse stock levels fall below 150 units.
+2. Move 100 units from standard racks to clearance bin BIN-Z02. Reduce price to $7.99 (compared to the standard price of $12.99).
+3. Flag CAB-1100 for a promotional bundle with the WMK-2200 keyboard. Offer the keyboard and cable bundle at a promotional price of $97.99.
+4. Notify the marketing team to feature this bundle in the next promotional email campaign.
+
+Note: This overstock was caused by excessive purchasing in Q4 2023 based on inflated holiday sales forecasts. We recommend that the planning team review the forecasting model to avoid future supply imbalances. Warehouse staff will update the physical bin labels to reflect the clearance price.

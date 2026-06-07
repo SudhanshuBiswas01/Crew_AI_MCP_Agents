@@ -1,0 +1,21 @@
+# Source: ups.com + shippo.com — paraphrased and combined with synthetic internal steps for educational use
+
+Damaged Goods Claims — Escalation Procedure
+Policy Owner: Operations Team
+Last Updated: 2024-01-15
+
+This SOP outlines instructions for processing claims for items damaged during carrier transit.
+
+Step 1: When a customer reports shipping damage, the support agent must create a ticket within twenty-four hours. The agent must request a minimum of four photos: external box damage, damaged item, shipping label, and internal packing materials. The customer must retain all original packaging.
+
+Step 2: If carrier damage is suspected (indicated by external box crushing or tears), file a claim with UPS at ups.com/us/en/support/file-a-claim.page within five business days of delivery. Required documentation includes the tracking number, photos, proof of value, and shipping label.
+
+Step 3: A replacement unit must be processed and dispatched within one business day of receiving customer photographs, pending photo verification.
+
+Step 4: If the replacement item value exceeds two hundred dollars, the support agent must escalate the ticket to the Operations Manager for review. The manager must approve the replacement within four business hours.
+
+Step 5: The warehouse team tracks carrier claim status weekly. UPS and FedEx claims are typically reviewed and resolved in two to four weeks.
+
+Step 6: The warehouse team compiles a monthly damage report for the Operations Manager and logistics lead. This report must include: number of claims filed, claims approved, total value recovered, and a root cause summary.
+
+All staff must ensure strict adherence to these timelines. Failure to submit carrier claims within the five-day window will result in claim forfeiture. If the carrier requests an in-person inspection, the agent must coordinate with the customer to schedule the carrier visit. Documentation of the inspection must be appended to the original ticket.

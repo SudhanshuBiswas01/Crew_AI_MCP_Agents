@@ -1,0 +1,16 @@
+# Source: synthetic — customer support ticket summary
+
+Customer Support Ticket Summary: TKT-4489
+Ticket ID: TKT-4489
+Order ID: ORD-1078
+Date: 2024-04-02
+Customer: Rahul Verma, Delhi (International)
+Product: Wireless Mechanical Keyboard SKU#WMK-2200
+
+The customer reported that the shipment box arrived sealed with original tape, but contained only bubble wrap. The keyboard was missing. The customer provided photos confirming the empty packaging.
+
+Agent James D. initiated the investigation. A replacement keyboard was processed and dispatched the next business day. The agent notified the warehouse manager to review the packing station video recordings and digital logs for batch number WMK-0402. The initial inspection suggests a mispick or packing station oversight rather than carrier theft.
+
+Resolution: Resolved. The replacement unit was confirmed delivered on 2024-04-06.
+Root Cause: Warehouse packing error.
+Follow-up: The warehouse team conducted a comprehensive audit of fifty WMK-2200 units shipped on the same day. During this audit, the team identified two other potential mispicks and proactively reshipped the missing keyboards to those customers. The warehouse manager has updated packing protocols to prevent similar errors in future batches.

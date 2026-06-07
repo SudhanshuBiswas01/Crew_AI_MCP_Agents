@@ -1,0 +1,12 @@
+# Source: synthetic — paraphrased for educational use
+
+INVENTORY ALERT MEMORANDUM
+Date: 2024-05-20
+To: Sales, Marketing, and Inventory Control Teams
+From: Warehouse Management
+
+This inventory alert documents an overstock situation regarding the two-meter USB-A to USB-C Cable (SKU#CAB-1100) at our main logistics facility. As of May 20, the warehouse holds three hundred and eighty units of this specific cable in stock. However, our sales reports show that the monthly sell-through rate for this item is only forty units, indicating that we currently hold more than nine months of supply.
+
+To optimize warehouse space and reduce carrying costs, we are executing several corrective actions. First, all automated reorder triggers for SKU#CAB-1100 have been paused until further notice. Second, warehouse staff will move one hundred units of this cable from the standard storage area to clearance bin BIN-Z02 to encourage in-store sales.
+
+Finally, we have flagged this cable SKU for a promotional marketing campaign. We recommend bundling the USB-A to USB-C cable with purchases of the Wireless Mechanical Keyboard (SKU#WMK-2200) at a discounted price to accelerate stock depletion. This issue was flagged by Warehouse Lead Kiran T., who will monitor the success of these measures over the next thirty days.
