@@ -1,0 +1,13 @@
+id,product,category,status,quantity,unit_price,order_date,customer
+1,Widget A,Hardware,fulfilled,3,99.99,2024-03-01,Acme Corp
+2,Widget B,Software,pending,1,49.50,2024-03-05,Beta Ltd
+3,Widget C,Hardware,cancelled,5,19.00,2024-03-07,Gamma Inc
+4,Widget D,Software,fulfilled,2,149.00,2024-03-10,Delta Co
+5,Widget E,Hardware,pending,10,9.99,2024-03-12,Acme Corp
+6,Widget F,Services,fulfilled,1,299.00,2024-03-14,Epsilon SA
+7,Widget G,Hardware,pending,4,39.99,2024-03-15,Beta Ltd
+8,Widget H,Software,fulfilled,6,59.00,2024-03-18,Zeta LLC
+9,Widget I,Services,pending,2,199.00,2024-03-20,Acme Corp
+10,Widget J,Hardware,cancelled,1,79.99,2024-03-22,Gamma Inc
+11,Widget K,Software,fulfilled,3,89.00,2024-03-24,Delta Co
+12,Widget L,Services,fulfilled,1,499.00,2024-03-26,Epsilon SA
