@@ -1,0 +1,114 @@
+[project]
+name = "week14-ops-assistant"
+version = "0.1.0"
+description = "MCP + CrewAI Operations Assistant — Week 14 Mini-Project (Futurense AI Clinic)"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+
+# ── Core runtime dependencies ─────────────────────────────────────────────────
+dependencies = [
+    # MCP server SDK — includes FastMCP
+    "mcp>=1.8.0",
+
+    # CrewAI framework
+    "crewai>=0.80.0",
+
+    # CrewAI tools — the [mcp] extra adds MCPServerAdapter + StdioServerParameters
+    "crewai-tools[mcp]>=0.14.0",
+
+    # Environment variable loading from .env
+    "python-dotenv>=1.0.1",
+
+    # Data handling for records.csv
+    "pandas>=2.2.0",
+
+    # Input validation — used by MCP tool schemas
+    "pydantic>=2.7.0",
+
+    # HTTP client — used by CrewAI internally and optionally by stretch tasks
+    "httpx>=0.27.0",
+]
+
+# ── Console script entry points ───────────────────────────────────────────────
+# After `uv sync`, these are available as commands in the venv:
+#   uv run ops-server   → start the MCP server
+#   uv run ops-crew     → run the crew with the default question
+#   uv run ops-crew --question "..."  → run with a custom question
+[project.scripts]
+ops-server = "server.server:main"
+ops-crew   = "crew.main:main"
+
+# ── Optional / development dependencies ──────────────────────────────────────
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.2.0",
+    "pytest-asyncio>=0.23.7",
+    "pytest-timeout>=2.3.0",   # prevent tests hanging if Ollama is slow
+    "ruff>=0.4.7",             # linter + formatter
+    "rich>=13.7.0",            # pretty console output during development
+]
+
+# ── Build system ──────────────────────────────────────────────────────────────
+[build-system]
+requires      = ["hatchling"]
+build-backend = "hatchling.build"
+
+# ── uv configuration ──────────────────────────────────────────────────────────
+[tool.uv]
+# Development dependencies (equivalent to [project.optional-dependencies].dev
+# but resolved automatically by `uv sync --dev`)
+dev-dependencies = [
+    "pytest>=8.2.0",
+    "pytest-asyncio>=0.23.7",
+    "pytest-timeout>=2.3.0",
+    "ruff>=0.4.7",
+    "rich>=13.7.0",
+]
+
+# ── Hatchling packaging ────────────────────────────────────────────────────────
+[tool.hatch.build.targets.wheel]
+# Include only source packages; exclude scratch data and traces from the wheel
+include = [
+    "server/",
+    "crew/",
+]
+
+# ── pytest configuration ──────────────────────────────────────────────────────
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths    = ["tests"]
+timeout      = 120          # seconds — allows for slow Ollama cold-starts
+log_cli      = true
+log_cli_level = "INFO"
+markers = [
+    "e2e: end-to-end tests that require a running Ollama instance",
+]
+
+# Run only unit tests by default; add -m e2e to include end-to-end tests:
+#   uv run pytest -v                   → unit tests only
+#   uv run pytest -v -m e2e            → e2e tests only
+#   uv run pytest -v -m "e2e or not e2e" → all tests
+addopts = "-m 'not e2e'"
+
+# ── Ruff linter / formatter ────────────────────────────────────────────────────
+[tool.ruff]
+line-length    = 100
+target-version = "py311"
+exclude        = [".venv", "dist", "build"]
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "F",   # pyflakes
+    "I",   # isort
+    "UP",  # pyupgrade
+    "B",   # flake8-bugbear
+    "SIM", # flake8-simplify
+]
+ignore = [
+    "B008",  # do not perform function calls in default arguments (fine for FastMCP)
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["server", "crew"]

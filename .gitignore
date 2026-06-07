@@ -1,0 +1,45 @@
+# ── Secrets ──────────────────────────────────────────────────
+.env
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── uv / virtualenv ──────────────────────────────────────────
+.venv/
+venv/
+.uv/
+uv.lock          # optional: commit this if you want reproducible installs
+
+# ── Testing ──────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# ── IDE ──────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ── Generated outputs (keep dirs, ignore content) ────────────
+output/*.md
+traces/*.json
+traces/*.jsonl
+traces/*.log
+
+# ── Demo video (add a link in README instead of committing large files) ──
+demo/*.mp4
+demo/*.mov
+demo/*.mkv

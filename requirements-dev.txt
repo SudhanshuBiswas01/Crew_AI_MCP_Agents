@@ -1,0 +1,18 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  requirements-dev.txt — development and testing tools
+#  Install after requirements.txt:
+#    pip install -r requirements.txt -r requirements-dev.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+-r requirements.txt
+
+# Testing
+pytest>=8.2.0
+pytest-asyncio>=0.23.7
+pytest-timeout>=2.3.0
+
+# Linter + formatter
+ruff>=0.4.7
+
+# Pretty terminal output
+rich>=13.7.0
